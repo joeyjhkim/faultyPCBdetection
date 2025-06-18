@@ -22,7 +22,7 @@ This MATLAB project simulates and analyzes thermal images of printed circuit boa
 
 ## How to Run
 
-1. Clone the repo:
+1. Clone the repo: git clone https://github.com/yourusername/pcb-defect-detector.git
 
 2. Open the project in MATLAB
 
