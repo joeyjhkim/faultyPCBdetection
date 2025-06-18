@@ -1,8 +1,3 @@
-# faultyPCBdetection
-This is a matlab program that takes in a heat reading (image) of a PCB and determines at which location of the PCB there are bad connections
-
-
-
 # PCB Thermal Defect Detection System
 
 This MATLAB project simulates and analyzes thermal images of printed circuit boards (PCBs) to detect faulty solder joints using image processing. It generates synthetic thermal images, identifies hotspots (defective areas), and compiles the results into a multi-page PDF report that includes annotated images and tabular data.
